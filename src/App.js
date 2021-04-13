@@ -27,8 +27,8 @@ function turnAqua() {
   Client.setColor("#00ffff");
 }
 
-function turnOrange() {
-  Client.setColor("#ffff00");
+function turnGoodBlue() {
+  Client.setColor("#0070f3");
 }
 
 function turnWhite() {
@@ -115,9 +115,9 @@ function App() {
             <p>This changes the color to aqua.</p>
           </button>
 
-          <button className="card" onClick={turnOrange}>
-            <h3>Orange &rarr;</h3>
-            <p>This changes the color to orange.</p>
+          <button className="card" onClick={turnGoodBlue}>
+            <h3>The Good Blue &rarr;</h3>
+            <p>This changes the color to the good blue.</p>
           </button>
           </div>
 
