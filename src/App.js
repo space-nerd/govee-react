@@ -116,8 +116,8 @@ function App() {
           </button>
 
           <button className="card" onClick={turnGoodBlue}>
-            <h3>The Good Blue &rarr;</h3>
-            <p>This changes the color to the good blue.</p>
+            <h3>Light Blue &rarr;</h3>
+            <p>This changes the color to light blue.</p>
           </button>
           </div>
 
